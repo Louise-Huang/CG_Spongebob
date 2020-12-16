@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+924330300 source:c:\users\s56cseries\desktop\03160490\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\s56cseries\desktop\03160490\glm.h
+	<GL/glut.h>
+
+1426320928 c:\users\s56cseries\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\s56cseries\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1463323900 source:c:\users\s56cseries\desktop\03160490\myobj.cpp
+	<GL/glut.h>
+	"glm.h"
+	<windows.h>
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+1463319745 c:\users\s56cseries\desktop\03160490\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
+924330300 source:c:\users\s56cseries\desktop\電腦圖學\03160490game\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\s56cseries\desktop\電腦圖學\03160490game\glm.h
+	<GL/glut.h>
+
+1465741223 source:c:\users\s56cseries\desktop\電腦圖學\03160490game\myobj.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"glm.h"
+	<windows.h>
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+1463319745 c:\users\s56cseries\desktop\電腦圖學\03160490game\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
+924330300 source:c:\users\s56cseries\desktop\03160490game\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\s56cseries\desktop\03160490game\glm.h
+	<GL/glut.h>
+
+1465741223 source:c:\users\s56cseries\desktop\03160490game\myobj.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"glm.h"
+	<windows.h>
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+1463319745 c:\users\s56cseries\desktop\03160490game\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
